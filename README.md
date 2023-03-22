@@ -1,5 +1,6 @@
 # litydity
 Color scheme for JetBrains IDE
+>"There are too many colors nowadays..."
 
 ## Screenshots
 
@@ -10,7 +11,7 @@ Color scheme for JetBrains IDE
 - [JetBrains plugins page](https://plugins.jetbrains.com/plugin/12290-litydity-color-scheme)
 - IDE -> Settings -> Plugins -> 'litydity'
 
-## Comatability
+## Compatability
 WebStorm, PHPStorm
 
 ## How to appply
