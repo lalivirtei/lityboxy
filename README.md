@@ -16,4 +16,4 @@ WebStorm, PHPStorm
 
 ## How to appply
 Settings -> Editor -> Color Scheme
-You may need to import it first, if you downloaded separate .jar file
+You may need to import it first if you downloaded a separate.jar file.
