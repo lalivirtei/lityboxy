@@ -2,6 +2,9 @@
 Color scheme for JetBrains IDE
 >"There are too many colors nowadays..."
 
+## Why?
+This can help you focus on the important parts of the code, not on how it looks.
+
 ## Screenshots
 
 ![Palette](/palette.png)
